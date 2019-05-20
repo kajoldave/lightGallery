@@ -47,13 +47,13 @@
   right: 20px;
 }
 .lg-actions .lg-next:before {
-  content: "\e095";
+  content: "\f054";
 }
 .lg-actions .lg-prev {
   left: 20px;
 }
 .lg-actions .lg-prev:after {
-  content: "\e094";
+  content: "\f053";
 }
 
 @-webkit-keyframes lg-right-end {
